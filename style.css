@@ -1,0 +1,60 @@
+#Matrices{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.Matriz{
+  width: 10%;
+  margin: 1%;
+  flex-basis:15%;
+}
+
+.Operador{
+  margin: 1%;
+}
+
+table {
+  table-layout: fixed;
+  border-collapse: collapse;
+  width: 100%;
+  margin-right: 5px;
+}
+
+.LlaveIzd{
+  width: 5%;
+  border-left: 1px solid black;
+}
+
+#LlaveIzqInf{
+  border-bottom: 1px solid black;
+}
+
+#LlaveIzqSup{
+  border-top: 1px solid black;
+}
+
+.LlaveDcha{
+  width: 5%;
+  border-right: 1px solid black;
+}
+
+#LlaveDchaInf{
+  border-bottom: 1px solid black;
+}
+
+#LlaveDchaSup{
+  border-top: 1px solid black;
+}
+
+td{
+  text-align: center;
+  height: 30px;
+}
+
+/*
+.Separador{
+  border-right: 1px solid black;
+}
+*/
