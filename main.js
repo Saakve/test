@@ -366,14 +366,3 @@ function genera_operacion_Matrices(){
 
 const MatricesEstructuradas = [];
 const MatricesCreadas = []; //Almacena las matrices creadas para poder operar en ellas despues con genera_operación;
-
-//Pruebas de Representacion en Fracciones los elemenos de la matriz.
-//Con las operaciones posibles.
-
-//Prueba de la operacion intercambiar de la CLase matriz.
-/*let a = new Matriz(3,3);
-let b = a.intercambiarRenglon(1,2);
-console.log(a);
-console.log(b);
-RESULTADO: EXITOSO
-*/
