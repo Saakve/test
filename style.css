@@ -1,3 +1,6 @@
+body{
+  background: grey;
+}
 #Matrices{
   display:flex;
   flex-direction: row;
@@ -52,9 +55,3 @@ td{
   text-align: center;
   height: 30px;
 }
-
-/*
-.Separador{
-  border-right: 1px solid black;
-}
-*/
