@@ -1,3 +1,8 @@
+//Registrando el service worker
+if ("serviceWorker" in navigator){
+  navigator.serviceWorker.register("sw.js");
+}
+
 class Fraccion { // Retorna un Objeto con propiedades numerador y denominador, con su minima expresión
   constructor(numerador,denominador = 1) {
     this.numerador = numerador;
