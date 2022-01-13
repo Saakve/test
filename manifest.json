@@ -1,0 +1,12 @@
+{
+    "name": "Operador de Matriz",
+    "short_name": "OM",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "description": "Permite efectuar operaciones sencillas entre matrices",
+    "icons": [{
+      "src": "icon.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }]
+  }
