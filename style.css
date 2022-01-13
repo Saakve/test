@@ -1,3 +1,7 @@
+body {
+  background: rgb(174, 233, 235);
+}
+
 #Matrices{
   display:flex;
   flex-direction: row;
